@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1597477332 source:c:\users\arpita\documents\prime2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_prime.h"
+
+1597477679 c:\users\arpita\documents\prime2\test_prime.h
+
+1597477679 source:c:\users\arpita\documents\prime2\prime.c
+	"prime.h"
+
+1597477679 c:\users\arpita\documents\prime2\prime.h
+	<stdbool.h>
+
+1597477332 c:\users\arpita\documents\prime2\test\test_prime.h
+
+1597477332 source:c:\users\arpita\documents\prime2\src\prime.c
+	"prime.h"
+
+1597477332 c:\users\arpita\documents\prime2\inc\prime.h
+	<stdbool.h>
+
+1597477332 source:c:\users\arpita\documents\prime2\test\test_prime.c
+	<stdbool.h>
+	"unity.h"
+	"prime.h"
+
+1597274302 c:\users\arpita\documents\prime2\unity\unity.h
+	"unity_internals.h"
+
+1597274862 c:\users\arpita\documents\prime2\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597274569 source:c:\users\arpita\documents\prime2\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597477332 source:c:\users\arpita\desktop\prime\prime2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_prime.h"
+
+1597477332 c:\users\arpita\desktop\prime\prime2\test\test_prime.h
+
+1597477332 source:c:\users\arpita\desktop\prime\prime2\src\prime.c
+	"prime.h"
+
+1597477332 c:\users\arpita\desktop\prime\prime2\inc\prime.h
+	<stdbool.h>
+
+1597477332 source:c:\users\arpita\desktop\prime\prime2\test\test_prime.c
+	<stdbool.h>
+	"unity.h"
+	"prime.h"
+
+1597274302 c:\users\arpita\desktop\prime\prime2\unity\unity.h
+	"unity_internals.h"
+
+1597274862 c:\users\arpita\desktop\prime\prime2\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597274569 source:c:\users\arpita\desktop\prime\prime2\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
